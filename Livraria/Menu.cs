@@ -30,6 +30,7 @@ namespace Livraria
 
         public void OperacaoMenu()
         {
+
             do
             {
                 EscolherControl();//Chamar o texto do menu
